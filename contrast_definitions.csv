@@ -1,0 +1,5 @@
+contrast_number,contrast_name,AM_level,CS_level,AM_code,CS_code
+10,Cond_High_Emo-Pre_High_Emo,High AM,CS+,1,1
+11,Cond_High_Neu-Pre_High_Neu,High AM,CS-,1,2
+12,Cond_Low_Emo-Pre_Low_Emo,Low AM,CS+,2,1
+13,Cond_Low_Neu-Pre_Low_Neu,Low AM,CS-,2,2
